@@ -1,0 +1,17 @@
+body{
+background-image: url("calculator.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+
+div{
+margin-top: 150px;
+margin-left: 800px;
+
+}
+button {
+color: white;
+background-color:#02047a;
+margin-top: 20px;
+}

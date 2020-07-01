@@ -1,0 +1,40 @@
+body {
+background-image: url("clock.jpg");
+background-size:cover;
+background-repeat: no-repeat;
+background-color: #ccc;
+
+}
+
+h1 {
+font-family: 'Notable', sans-serif;
+font-size: 50px;
+margin-left: 100px;
+padding-top: 150px;
+}
+
+div {
+background-color: #121010;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+font-family: 'VT323';
+font-size: 65px;
+color: white;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 800px;
+margin-left: 100px;
+border-style: solid;
+border-color: #4a1815;
+border-width: 5px;
+
+
+}
+button {
+ background-color:#02047a;
+margin-left: 195px;
+color: white;
+ padding: 15px 32px;
+
+}
